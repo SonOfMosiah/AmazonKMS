@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/node": "^17.0.23"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.3.0",
+    "@aws-sdk/client-kms": "^3.67.0",
+    "ethereumjs-tx": "^2.1.2",
+    "ethereumjs-util": "^7.1.4",
+    "ololog": "^1.1.175"
+  }
+}
